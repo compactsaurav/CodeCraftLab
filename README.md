@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?q=80&w=2029&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" style="width:600px;height:250px;">
+</div>
+
+
 <h1 align="center">Hello 👋, I'm Saurav Kumar</h1>
 <h3 align="center">I'm Saurav Kumar, a B-Tech freshman passionate about coding. This repository logs my programming journey, showcasing projects, experiments, and learnings in C/C++. Join me as I explore coding's fascinating realms!</h3>
 
